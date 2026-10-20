@@ -1,0 +1,16 @@
+
+.weatherApp {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 20px;
+  box-sizing: border-box;
+}
+
+.weatherApp h1 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #1976d2;
+  text-align: center;
+}
